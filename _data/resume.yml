@@ -22,7 +22,7 @@ contact: #联系方式连接等3~5行
   href: 'https://github.com/NewFuture'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
-  # - text: "地址"
+  # - text: "江苏省"
   #   icon: "icons/location.svg"
 
 #main下面是主体内容，类别条数不限
